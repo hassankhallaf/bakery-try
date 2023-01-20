@@ -200,12 +200,13 @@ header .mobile-menu ul li:not(:last-child) a {
 }
 @media(max-width:929px){
     .landing{
-        padding-bottom: 60px;
-        height:100vh;
+        padding-bottom: 40px;
+        height:fit-content;
     }
     .landing .container  {
         display: block;
         height: auto;
+        padding:0;
     }
     .landing .container .text h1{
         font-size: 30px;
