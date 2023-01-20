@@ -200,8 +200,9 @@ header .mobile-menu ul li:not(:last-child) a {
 }
 @media(max-width:929px){
     .landing{
-        padding-bottom: 40px;
-        height:fit-content;
+        padding-bottom: 10px;
+        height:100vh;
+    }content;
     }
     .landing .container  {
         display: block;
